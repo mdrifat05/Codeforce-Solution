@@ -25,3 +25,6 @@ int main()
     }
     return 0;
 }
+
+
+//good solution
